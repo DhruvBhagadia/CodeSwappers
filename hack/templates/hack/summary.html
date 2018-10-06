@@ -196,12 +196,12 @@
 		    var chart2 = new Chart(ctx, {
 		        type: 'bar',
 		        data: {
-		          labels: ["Angry", "Happy", "Smiling"],
+		          labels: ["Speaker1", "Speaker2"],
 		          datasets: [
 		            {
 		              label: "percentage",
 		              backgroundColor: ["#3e95cd","#c45850"],
-		              data: [42, 78, 93]
+		              data: [0.3, 0.6]
 		            }
 		          ]
 		        },
@@ -217,7 +217,7 @@
 		                 yAxes: [{
 		                            ticks: {
 		                                 min: 0,
-		                                 stepSize: 8,
+		                                 stepSize: 1,
 		                         }
 
 		                 }]
