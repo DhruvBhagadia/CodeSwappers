@@ -1,7 +1,5 @@
 # CodeSwappers
-Submissions for KJSCE Hackathon 2018 [ Meeting Minutes ]
-
-6th Prize at KJSCE Hackathon
+This repository is our solution for the Minutes of Meeting Problem Statement at KJSCE Hackathon '18. (6th Prize)
 ### Problem Statement:
 
 Making notes during a meeting is a skill full task as it would require the person
