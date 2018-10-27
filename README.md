@@ -1,4 +1,4 @@
-# CodeSwappers
+# Voice X
 #### This repository is our solution for the Minutes of Meeting Problem Statement at KJSCE Hackathon '18. (6th Prize)
 ### Problem Statement:
 
